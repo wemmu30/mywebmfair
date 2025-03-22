@@ -1,0 +1,17 @@
+.allProductsSection{
+    min-height: 100vh;
+}
+
+.allproductsheading{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 2rem;
+}
+.img{
+    width: 100%;
+    height: fit-content;
+    object-fit: cover;
+}
+
+
+
