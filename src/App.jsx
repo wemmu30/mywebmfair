@@ -133,15 +133,4 @@ const AppContent = () => {
   );
 };
 
-// Main App component
-function App() {
-  return (
-    <UserProvider>
-      <Router>
-        <AppContent />
-      </Router>
-    </UserProvider>
-  );
-}
-
 export default App;
